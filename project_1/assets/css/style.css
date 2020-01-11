@@ -1,0 +1,26 @@
+/* General styles */
+table, td, th {
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+td {
+    height: 50px;
+    vertical-align: bottom;
+    text-align: center;
+    padding: 10px;
+}
+thead, tfoot{ background: #f3f3f3; font-weight: bold; text-align: center; }
+/* Container */
+.container{
+    width: 50%;
+    margin: 0 auto;
+}
+/* Selection div */
+body div.append{ background: #ccc; padding: 10px; color: #000; }
+/* Cookies div */
+body div.cookies{ background: #ddd; padding: 10px; color: #000; }
+/* Auto table */
+table .append-tabel img{ width: 100px; height:  auto; }
