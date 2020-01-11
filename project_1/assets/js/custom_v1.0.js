@@ -1,5 +1,5 @@
 /*
- * Description: In this javascript I will develop a auto configurator.....
+ * Description: In this javascript I will develop an auto configurator.....
  * Author: Stephan Csorba
  * Version: 1.0
  * Date: 11, January 2020
